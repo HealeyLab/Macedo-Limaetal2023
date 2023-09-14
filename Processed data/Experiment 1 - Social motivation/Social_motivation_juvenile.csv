@@ -1,0 +1,16 @@
+Subject,Stimulus_type,Stimulus_order,Trials
+SRSCH03male,familiarFemale,1,321
+SRSCH03male,novelJuvenile,2,71
+SRSCH03male,familiarFemale,3,95
+SRSCH04male,familiarFemale,1,803
+SRSCH04male,novelJuvenile,2,442
+SRSCH04male,familiarFemale,3,655
+SRSCH05female,familiarMale,1,288
+SRSCH05female,novelJuvenile,2,173
+SRSCH05female,familiarMale,3,410
+SRSCH06male,familiarFemale,1,58
+SRSCH06male,novelJuvenile,2,403
+SRSCH06male,familiarFemale,3,74
+SRSCH07male,familiarFemale,1,480
+SRSCH07male,novelJuvenile,2,128
+SRSCH07male,familiarFemale,3,100
